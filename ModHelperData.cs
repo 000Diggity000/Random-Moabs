@@ -15,7 +15,7 @@ namespace RandomMoabs
         public const string Description = "Spawns a random moab every boss round.";
         public const string SubPath = "RandomMoabs";
         public const string DllName = "RandomMoabs.dll";
-        public const string WorksOnVersion = "35";
+        public const string WorksOnVersion = "34.3";
 
         public const string RepoOwner = "000Diggity000";
         public const string RepoName = "Random-Moabs";
