@@ -17,7 +17,7 @@ namespace RandomMoabs
         public const string DllName = "RandomMoabs.dll";
         public const string WorksOnVersion = "35";
 
-        public const string RepoOwner = "Diggity";
+        public const string RepoOwner = "000Diggity000";
         public const string RepoName = "Random-Moabs";
     }
 }
