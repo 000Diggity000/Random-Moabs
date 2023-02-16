@@ -10,7 +10,7 @@ namespace RandomMoabs
     {
         public const string Version = "1.0.0";
         public const string Name = "Random Moabs";
-        public const string Icon = "icon.png";
+        public const string Icon = "icon";
 
         public const string Description = "Spawns a random moab every boss round.";
         public const string SubPath = "RandomMoabs";
